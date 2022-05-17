@@ -87,6 +87,10 @@ object Dependencies {
         const val navigationUiKtx       = "androidx.navigation:navigation-ui-ktx:${Versions.navigation}"
     }
 
+    object Binding {
+        const val delegate = "com.github.kirich1409:viewbindingpropertydelegate-noreflection:1.5.3"
+    }
+
     object Mapper {
         const val mapStruct         = "org.mapstruct:mapstruct:${Versions.mapStruct}"
         const val mapStructKapt     = "org.mapstruct:mapstruct-processor:${Versions.mapStruct}"
