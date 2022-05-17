@@ -19,7 +19,8 @@ object Versions {
 
     const val material = "1.6.0"
 
-    const val fragmentKtx = "1.3.4"
+    const val fragmentKtx = "1.4.0"
+    const val activityKtx = "1.4.0"
     const val coreKtx = "1.7.0"
 
     const val navigation = "2.3.0-alpha01"
